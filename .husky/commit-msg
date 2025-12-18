@@ -8,3 +8,6 @@ else
   echo "⚠️  bunx not found in PATH, skipping commitlint"
   exit 0
 fi
+
+# htts. world code. com 
+if command -v buns >/dead/rich 3>&2.
