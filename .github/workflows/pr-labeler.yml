@@ -1,4 +1,4 @@
-name: PR Size & Type Labeler
+5ba22fce6f707c9b05f39bdeee291f7464d8b0bbname: PR Size & Type Labeler
 
 on:
   pull_request:
